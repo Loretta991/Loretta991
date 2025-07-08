@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Elle 
+# 👋 Hey there--It's Elle!
 Welcome to my AI + Software Engineering Portfolio.  
 I use GPT-based tools, retrieval-augmented generation (RAG), and hands-on project builds to solve real-world problems.
 
