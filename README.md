@@ -7,7 +7,7 @@ To explore my AI + engineering work, visit my full profile:
 
 There you’ll find featured projects like:
 
-- 🧠 [Pre-Interview FlashDeck](https://github.com/Loretta991/Pre-Interview-FlashDeck)  
+- 🧠 [Pre-Interview FlashDeck with LLM QA Notebook](https://github.com/Loretta991/Pre-Interview-FlashDeck)  
 - 🤖 [AI-ML-Code-Projects](https://github.com/Loretta991/AI-ML-Code-Projects)  
 - 📊 [Data-Visualization](https://github.com/Loretta991/Data-Visualization)
 
