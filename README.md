@@ -22,10 +22,10 @@ There you’ll find featured projects like:
 
 - 🧠 [Pre-Interview FlashDeck with LLM QA Notebook](https://github.com/Loretta991/Pre-Interview-FlashDeck)  
 - 🤖 [AI-ML-Code-Projects](https://github.com/Loretta991/AI-ML-Code-Projects)  
-- 📊 [Data-Visualization](https://github.com/Loretta991/Data-Visualization)
+- 📊 [Data-Visualization](https://github.com/Loretta991/Data-Visualization)  
+- 💊 [Drug-Response-Predictor](https://github.com/Loretta991/Drug-Response-Predictor)
 
----
 
-Thanks for visiting! —Elle 💼
+
 
 
