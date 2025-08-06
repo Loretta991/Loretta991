@@ -28,5 +28,11 @@ There you’ll find featured projects like:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Loretta991/ellegrey-landing-site/blob/main/CLEANED_On_Demand_Prototype.ipynb)
 
+---
+## 👀 Return to Projects  
+[![Return to GitHub Projects](https://img.shields.io/badge/GitHub-Return_to_Projects-blue?logo=github)](https://github.com/Loretta991)
 
+## 👤 Return to LinkedIn  
+[![LinkedIn](https://img.shields.io/badge/Return%20to%20LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/elle-grey-8a9307299/)
 
+Future resources will be available on this Padlet which will be for educational content, suitable for schools and students.
