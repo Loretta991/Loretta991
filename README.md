@@ -24,9 +24,9 @@ There you’ll find featured projects like:
 - 🤖 [AI-ML-Code-Projects](https://github.com/Loretta991/AI-ML-Code-Projects)  
 - 📊 [Data-Visualization](https://github.com/Loretta991/Data-Visualization)  
 - 💊 [Drug-Response-Predictor](https://github.com/Loretta991/Drug-Response-Predictor)
-- - 🌐 [ElleGrey Landing Site – Final Prototype Notebook](https://github.com/Loretta991/ellegrey-landing-site/blob/main/On_Demand_Prototype_Final.ipynb)
+- 🌐 [ElleGrey Landing Site – Final Prototype Notebook](https://github.com/Loretta991/ellegrey-landing-site/blob/main/On_Demand_Prototype_FINAL.ipynb)
 
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Loretta991/ellegrey-landing-site/blob/main/On_Demand_Prototype_FINAL.ipynb)
 
 
 
