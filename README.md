@@ -24,6 +24,7 @@ There you’ll find featured projects like:
 - 🤖 [AI-ML-Code-Projects](https://github.com/Loretta991/AI-ML-Code-Projects)  
 - 📊 [Data-Visualization](https://github.com/Loretta991/Data-Visualization)  
 - 💊 [Drug-Response-Predictor](https://github.com/Loretta991/Drug-Response-Predictor)
+- - 🌐 [ElleGrey Landing Site – Final Prototype Notebook](https://github.com/Loretta991/ellegrey-landing-site/blob/main/immunity_insight_rag_FINAL.ipynb)
 
 
 
